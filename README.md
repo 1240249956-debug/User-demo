@@ -20,3 +20,11 @@
 1. 克隆仓库
 ```bash
 git clone git@github.com:1240249956-debug/User-demo.git
+
+## 项目截图
+
+用户界面：
+![用户界面](docs/user-page.png)
+
+Postman 测试：
+![Postman 测试](docs/postman-test.png)
