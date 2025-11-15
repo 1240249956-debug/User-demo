@@ -16,11 +16,6 @@
 - 编辑用户信息
 - 删除用户
 
-## 运行方式
-1. 克隆仓库
-```bash
-git clone git@github.com:1240249956-debug/User-demo.git
-
 ## 项目截图
 
 用户界面：
@@ -28,3 +23,10 @@ git clone git@github.com:1240249956-debug/User-demo.git
 
 Postman 测试：
 ![Postman 测试](docs/postman-test.png)
+
+## 运行方式
+1. 克隆仓库
+```bash
+git clone git@github.com:1240249956-debug/User-demo.git
+
+
